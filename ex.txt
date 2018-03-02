@@ -1,3 +1,7 @@
 Git VR study
 aaaaaaaaaaaaaaaaaaa
+<<<<<<< HEAD
 fffffffffffffffffff
+=======
+eeeeeeeeeeeeeeeeeee
+>>>>>>> master
