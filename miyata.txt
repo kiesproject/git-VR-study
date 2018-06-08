@@ -1,1 +1,2 @@
-Microsoft　github
+設計図共有サイトgithub
+JSONという聞いたことのない拡張子
